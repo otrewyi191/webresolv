@@ -19,10 +19,14 @@ import java.io.InputStream;
  */
 @Component
 public class FetchUrl {
+
+    private String proxyHost = "127.0.0.1";
+    private int proxyPort = 1080;
+
     public void get()
     {
         CloseableHttpClient httpclient = HttpClients.createDefault();
-        HttpGet httpGet = new HttpGet("http://www.baidu.com");
+        HttpGet httpGet = new HttpGet("http://67.220.90.4/bbs/forum-229-2.html");
         CloseableHttpResponse response1 = null;
         try {
             response1 = httpclient.execute(httpGet);
