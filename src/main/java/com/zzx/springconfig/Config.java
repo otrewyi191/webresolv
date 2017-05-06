@@ -1,6 +1,8 @@
 package com.zzx.springconfig;
 
 import com.zzx.util.ReadFile;
+import org.jsoup.Jsoup;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -12,7 +14,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = "com.zzx")
 public class Config {
 
-
     @Bean
     public ReadFile readfile()
     {
@@ -22,7 +23,13 @@ public class Config {
     }
 
     @Bean
+    @Qualifier("filepathmulu")
+    public String filepath(){
+        return "g:\\sis\\mulu.htm";
+    }
+
+    @Bean
     public String message(){
-        return "zzx test string";
+        return "hello";
     }
 }
