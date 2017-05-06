@@ -1,0 +1,77 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://G:/JAVA/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://G:/JAVA/lib/aspectjweaver-1.8.10.jar!/" />
+      <root url="jar://G:/JAVA/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://G:/JAVA/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://G:/JAVA/lib/junit-4.12.jar!/" />
+      <root url="jar://G:/JAVA/lib/log4j.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-aop-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-aspects-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-beans-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-support-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-core-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-expression-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-tomcat-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jdbc-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jms-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-messaging-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-orm-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-oxm-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-test-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-tx-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-web-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-portlet-4.3.8.RELEASE.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-websocket-4.3.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/JAVA/lib/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-aop-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-aspects-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-beans-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-support-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-core-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-expression-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-tomcat-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jdbc-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jms-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-messaging-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-orm-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-oxm-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-test-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-tx-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-web-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-portlet-4.3.8.RELEASE-javadoc.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-websocket-4.3.8.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/JAVA/lib/spring-aop-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-aspects-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-beans-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-context-support-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-core-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-expression-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-instrument-tomcat-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jdbc-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-jms-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-messaging-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-orm-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-oxm-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-test-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-tx-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-web-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-webmvc-portlet-4.3.8.RELEASE-sources.jar!/" />
+      <root url="jar://G:/JAVA/lib/spring-websocket-4.3.8.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
