@@ -1,8 +1,10 @@
 package com.zzx.test;
 
 import com.zzx.getlist.ParseHtml;
+import com.zzx.getlist.ParseRows;
 import com.zzx.springconfig.Config;
 import com.zzx.util.ReadFile;
+import org.jsoup.nodes.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -23,8 +25,10 @@ public class testReadFile {
         String s=readFile.read();*/
 
         ParseHtml parseHtml=(ParseHtml)ctx.getBean(ParseHtml.class);
+        Document doc=parseHtml.parse();
 
-
+        ParseRows parseRows=(ParseRows)ctx.getBean(ParseRows.class);
+        parseRows.parse(doc);
         System.out.println("end");
     }
 

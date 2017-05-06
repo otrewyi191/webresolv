@@ -29,7 +29,8 @@ public class Config {
     }
 
     @Bean
-    public String message(){
-        return "hello";
+    @Qualifier("charset")
+    public String charset(){
+        return "GBK";
     }
 }
