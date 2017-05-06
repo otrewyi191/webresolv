@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79e77802-dea3-4294-8fa6-9f1ffeb87460" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webresolv.iml" afterPath="$PROJECT_DIR$/webresolv.iml" />
-    </list>
+    <list default="true" id="79e77802-dea3-4294-8fa6-9f1ffeb87460" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1066,7 +1062,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494031172771</updated>
-      <workItem from="1494031179645" duration="16266000" />
+      <workItem from="1494031179645" duration="16287000" />
     </task>
     <task id="LOCAL-00001" summary="origin">
       <created>1494037665009</created>
@@ -1138,11 +1134,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494053030304</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="get baidu">
+      <created>1494054343002</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1494054343002</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16266000" />
+    <option name="totallyTimeSpent" value="16287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1198,7 +1201,8 @@
     <MESSAGE value="no need to read file &#10;Jsoup.parse cando" />
     <MESSAGE value="extract urls" />
     <MESSAGE value="use entity to record rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="use entity to record rows" />
+    <MESSAGE value="get baidu" />
+    <option name="LAST_COMMIT_MESSAGE" value="get baidu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
