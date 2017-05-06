@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79e77802-dea3-4294-8fa6-9f1ffeb87460" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java" afterPath="$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,8 +73,8 @@
       <file leaf-file-name="testReadFile.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="380">
+              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,8 +143,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zzx/util/ReadFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzx/bean/BeanA.java" />
         <option value="G:/spring.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzx/springconfig/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java" />
       </list>
     </option>
   </component>
@@ -965,7 +966,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494031172771</updated>
-      <workItem from="1494031179645" duration="6991000" />
+      <workItem from="1494031179645" duration="7140000" />
     </task>
     <task id="LOCAL-00001" summary="origin">
       <created>1494037665009</created>
@@ -974,11 +975,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494037665010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="origin">
+      <created>1494038200677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494038200677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6991000" />
+    <option name="totallyTimeSpent" value="7140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1032,7 +1040,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java</url>
-          <line>15</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -1167,8 +1175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzx/test/testReadFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        <state relative-caret-position="380">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
