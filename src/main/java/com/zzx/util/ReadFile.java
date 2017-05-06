@@ -2,8 +2,6 @@ package com.zzx.util;
 
 import com.zzx.bean.BeanA;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-import sun.misc.IOUtils;
 
 import java.io.*;
 
@@ -16,24 +14,26 @@ public class ReadFile {
     @Autowired
     private BeanA beanA;
 
-    private String filepath = "test";
+    private String filepath;
 
     public ReadFile() {
 
     }
 
-    public void read( ) {
+    public String read( ) {
 
         File f = new File(filepath);
         try {
             FileInputStream fileInputStream=new FileInputStream(f);
-            BufferedInputStream bufferedInputStream=new BufferedInputStream(fileInputStream);
-
-
+            String s = org.apache.commons.io.IOUtils.toString(fileInputStream,"GBK");
+            return s;
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+        return null;
     }
 
     public void setFilepath(String filepath) {

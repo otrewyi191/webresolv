@@ -19,6 +19,7 @@ public class testReadFile {
                 new AnnotationConfigApplicationContext(Config.class);
 
         ReadFile readFile = (ReadFile)  ctx.getBean(ReadFile.class);
+        String s=readFile.read();
         System.out.println(ctx.getBean("message"));
     }
 

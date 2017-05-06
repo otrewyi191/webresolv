@@ -17,7 +17,7 @@ public class Config {
     public ReadFile readfile()
     {
         ReadFile readFile=new ReadFile();
-        readFile.setFilepath("g:\\sis\\mulu.html");
+        readFile.setFilepath("g:\\sis\\mulu.htm");
         return readFile;
     }
 
