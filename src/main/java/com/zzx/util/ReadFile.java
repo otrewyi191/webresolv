@@ -1,6 +1,6 @@
 package com.zzx.util;
 
-import com.zzx.bean.BeanA;
+import com.zzx.bean.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.*;
@@ -10,9 +10,6 @@ import java.io.*;
  */
 //@Component
 public class ReadFile {
-
-    @Autowired
-    private BeanA beanA;
 
     private String filepath;
 

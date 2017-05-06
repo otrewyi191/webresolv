@@ -28,6 +28,13 @@ public class Config {
         return "g:\\sis\\mulu.htm";
     }
 
+
+    @Bean
+    @Qualifier("pageurl")
+    public String pageurl(){
+        return "g:\\sis\\thread-7117422-1-1.html";
+    }
+
     @Bean
     @Qualifier("charset")
     public String charset(){
